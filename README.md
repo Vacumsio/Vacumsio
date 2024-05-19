@@ -1,5 +1,4 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm Peter, I study computer graphics and game development.  
 I can program in C++/BP under the Unreal Engine 4/5:  
 * AI: programming behavior trees, tasks, decorators, services, EQS;  
 * UMG: programming user interfaces;  
